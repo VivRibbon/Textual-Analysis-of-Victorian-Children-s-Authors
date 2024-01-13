@@ -1,132 +1,132 @@
-baum: masterkey.txt
+baum: masterkey
 5
 
-baum: tinwoodman.txt
+baum: tinwoodman
 3
 
-baum: patchwork.txt
+baum: patchwork
 9
 
-baum: mothergoose.txt
+baum: mothergoose
 5
 
-baum: scarecrow.txt
+baum: scarecrow
 5
 
-baum: zixi.txt
+baum: zixi
 18
 
-baum: annabel.txt
+baum: annabel
 5
 
-baum: dorothy.txt
+baum: dorothy
 8
 
-baum: flyinggirl.txt
+baum: flyinggirl
 13
 
-baum: litteozstories.txt
+baum: litteozstories
 3
 
-baum: emeraldcity.txt
+baum: emeraldcity
 12
 
-baum: tiktok.txt
+baum: tiktok
 6
 
-baum: ozma.txt
+baum: ozma
 16
 
-baum: marvelousland.txt
+baum: marvelousland
 8
 
-baum: glinda.txt
+baum: glinda
 11
 
-baum: phoebedaring.txt
+baum: phoebedaring
 13
 
-baum: lostprincess.txt
+baum: lostprincess
 6
 
-baum: americanfairytales.txt
+baum: americanfairytales
 6
 
-baum: auntjane.txt
+baum: auntjane
 7
 
-baum: wizardofoz.txt
+baum: wizardofoz
 4
 
-baum: roadtooz.txt
+baum: roadtooz
 8
 
-baum: santa.txt
+baum: santa
 3
 
-baum: rinkitink.txt
+baum: rinkitink
 12
 
-baum: seafairies.txt
+baum: seafairies
 6
 
-stevenson: gardenofverses.txt
+stevenson: gardenofverses
 4
 
-stevenson: treasureisland.txt
+stevenson: treasureisland
 18
 
-stevenson: jekylll.txt
+stevenson: jekylll
 6
 
-stevenson: merrymen.txt
+stevenson: merrymen
 8
 
-stevenson: kidnapped.txt
+stevenson: kidnapped
 16
 
-stevenson: arabiannights.txt
+stevenson: arabiannights
 26
 
-kipling: works.txt
+kipling: works
 38
 
-twain: completetwin.txt
+twain: completetwin
 493
 
-carroll: 1887-The Game of Logic.txt
+carroll: 1887-The Game of Logic
 12
 
-carroll: 1871-Through the Looking-Glass.txt
+carroll: 1871-Through the Looking-Glass
 11
 
-carroll: 1907-Feeding the Mind.txt
+carroll: 1907-Feeding the Mind
 2
 
-carroll: 1897-Symbolic Logic.txt
+carroll: 1897-Symbolic Logic
 24
 
-carroll: 1885-A Tangled Tale.txt
+carroll: 1885-A Tangled Tale
 58
 
-carroll: 1865-Alice's Adventures Under Ground.txt
+carroll: 1865-Alice's Adventures Under Ground
 8
 
-carroll: 1898-Three Sunsets and Other Poems.txt
+carroll: 1898-Three Sunsets and Other Poems
 1
 
-carroll: 1865-Alice's Adventures in Wonderland.txt
+carroll: 1865-Alice's Adventures in Wonderland
 12
 
-carroll: 1876-The Hunting of the Snark.txt
+carroll: 1876-The Hunting of the Snark
 3
 
-carroll: 1869-Phantasmagoria and Other Poems.txt
+carroll: 1869-Phantasmagoria and Other Poems
 2
 
-carroll: 1893-Sylvie and Bruno.txt
+carroll: 1893-Sylvie and Bruno
 14
 
-carroll: 1890-Eight or Nine Wise Words about Letter-Writing.txt
+carroll: 1890-Eight or Nine Wise Words about Letter-Writing
 4
 
